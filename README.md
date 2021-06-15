@@ -4,7 +4,7 @@ Singularity recipe for [bamtools](https://github.com/pezmaster31/bamtools).
 ## Installing the container on Bridges 2
 Copy the
 
-* `SIF` file
+ WEBSITE http://github.com/icaoberg/singularity-bamtools 
 * and the `bamtools` script
 
 to `/opt/packages/bamtools/2.5.1`.
